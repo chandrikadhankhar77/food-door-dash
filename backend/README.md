@@ -1,6 +1,7 @@
 # Food Delivery Backend
 
 Production-ready Express + MongoDB + Socket.IO + Stripe (test mode) API for an online food delivery MERN app.
+backend deployment link = https://backend-lhva.onrender.com
 
 ## Stack
 
